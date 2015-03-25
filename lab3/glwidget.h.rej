@@ -1,0 +1,9 @@
+diff a/lab3/glwidget.h b/lab3/glwidget.h	(rejected hunks)
+@@ -37,7 +37,6 @@
+         GLenum drawMode;
+         glm::mat4 projection;
+         GLint projectionIndex;
+-<<<<<<< HEAD
+         std::vector<vec2> pts;
+       //  vec2 pts[1];
+         int num_pts;
